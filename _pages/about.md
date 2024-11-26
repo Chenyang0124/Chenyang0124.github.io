@@ -23,6 +23,11 @@ I am very fortunate to be advised by [Prof. Mengtang Li](https://ise.sysu.edu.cn
 - Outstanding award for artistic and athletic performance 
 - Meritorious award for morality
 
+## Publication
+(Under review)Li,M, Cai, M, Chen,Y, Ye,Y, Wang,j,& Pan,2.(2024,August 13-15). A NovelMRI-Compatible Rotary Encoder: Design and Evaluation.
+  *Submitted to the 2nd International Conference on the Frontiers ofRobotics and Software Engineering, Guiyang,China*
+
+
 You can find my CV here: [Resume - Yang Chen](../assets/Resume - Yang Chen.pdf).
 
 [Email](cheny2287@mail2.sysu.edu.cn) / [Github](https://github.com/Chenyang0124)
