@@ -9,12 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-- **Sun Yat-sen University**          *Shenzhen，China*
-- **School of Intelligent Systems Engineering**         *09/2021 to present*
-- Bachelor of Engineering in Transportation Engineering        *expected o6/2025*
+## EDUCATION
+- **Sun Yat-sen University**$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$*Shenzhen,China*
+- **School of Intelligent Systems Engineering**$~~~~~~~~~~~~~~~~~$*09/2021 to present*
+- Bachelor of Engineering in Transportation Engineering$~~~~~~~~~$*expected o6/2025*
 - Cumulative GPA: 3.5;Research Supervisor: Professor Mengtang Li1
 
+## PUBLICATION
+(Under review)Li,M, Cai, M, Chen,Y, Ye,Y, Wang,j,& Pan,2.(2024,August 13-15). A NovelMRI-Compatible Rotary Encoder: Design and Evaluation.
+  *Submitted to the 2nd International Conference on the Frontiers ofRobotics and Software Engineering, Guiyang,China*
+  
 ## RESEARCH/PROJECT（Selected）
 
 ### Gaze-attention based multiple-surgical-tool field of view adjustment for a tendon-driven continuum laparoscopic robot
