@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*I am looking for a Ph.D. position in machine learning.*
+*I am looking for a Ph.D. position in Robotics and Medical Engineering.*
 ## Short Bio
 
 I'm a third year undergraduate student from [School of IST](https://ise.sysu.edu.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). My research interest lies in Robotics and Medical Engineering, specifically focusing on the development of tendon-driven continuum laparoscopic robots. I am particularly engaged in the advancement of gaze-attention-based systems to optimize the surgical field of view, aiming to enhance surgical accuracy and operational efficiency.My focus also extends to developing intelligent cooperative control systems for mobile robots, encompassing simulation, path planning algorithms, and strategy formulation.
