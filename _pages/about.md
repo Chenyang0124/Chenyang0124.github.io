@@ -16,6 +16,7 @@ I am very fortunate to be advised by [Prof. Mengtang Li](https://ise.sysu.edu.cn
 - **Sun Yat-sen University**          *Shenzhen，China*
 - **School of Intelligent Systems Engineering**         *09/2021 to present*
 - Bachelor of Engineering in Transportation Engineering        *expected o6/2025*
+- Cumulative GPA: 3.5;Research Supervisor: Professor Mengtang Li1
   
 ## Awards
 - Second-Class Scholarship of Sun Yat-sen University 
