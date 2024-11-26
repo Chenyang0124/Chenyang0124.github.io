@@ -11,5 +11,5 @@ I am very fortunate to be advised by [Prof. Mengtang Li](https://ise.sysu.edu.cn
 
 You can find my CV here: [Resume-Chenyang](../assets/Resumen-Chenyang.pdf).
 
-[Email](cheny2287@mail2.sysu.edu.cn) / [Github](https://github.com/Chenyang0124) / [Wechat](../images/wechat.jpg)
+[Email](cheny2287@mail2.sysu.edu.cn) / [Github](https://github.com/Chenyang0124) / [Wechat](../images/cac0bb1d57ca66fa8ccdae16adf34fc.jpg)
 ————————————————
