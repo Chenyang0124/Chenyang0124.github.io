@@ -12,8 +12,8 @@ redirect_from:
 ## EDUCATION
 - **Sun Yat-sen University**  *Shenzhen,China*
 - **School of Intelligent Systems Engineering** *09/2021 to present*
-- Bachelor of Engineering in Transportation Engineering  *expected o6/2025*
-- Cumulative GPA: 3.5;Research Supervisor: Professor Mengtang Li1
+- Bachelor of Engineering in Transportation Engineering  *expected 06/2025*
+- Cumulative GPA: 3.5;Research Supervisor: Professor Mengtang Li
 
 ## PUBLICATION
 (Under review)Li,M, Cai, M, Chen,Y, Ye,Y, Wang,j,& Pan,2.(2024,August 13-15). A NovelMRI-Compatible Rotary Encoder: Design and Evaluation.
