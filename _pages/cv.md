@@ -16,8 +16,8 @@ redirect_from:
 - Cumulative GPA: 3.5;Research Supervisor: Professor Mengtang Li
 
 ## PUBLICATION
-(Under review)Li,M, Cai, M, Chen,Y, Ye,Y, Wang,j,& Pan,2.(2024,August 13-15). A NovelMRI-Compatible Rotary Encoder: Design and Evaluation.
-  *Submitted to the 2nd International Conference on the Frontiers ofRobotics and Software Engineering, Guiyang,China*
+(Under review)Li,M, Cai, M, Chen,Y, Ye,Y, Wang,j,& Pan,2.(2024,August 13-15). A NovelMRI-Compatible Rotary Encoder: Design and Evaluation.  
+*Submitted to the 2nd International Conference on the Frontiers ofRobotics and Software Engineering, Guiyang,China*
   
 ## RESEARCH/PROJECT（Selected）
 
